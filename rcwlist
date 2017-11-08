@@ -1,4 +1,8 @@
-echo "testpage" > index.html
-git add index.html
-git commit -a -m "First pages commit"
-git push origin master
+<html>
+  <title>
+   First website
+   
+<body>
+<h1> this it a cool test
+
+</html>
